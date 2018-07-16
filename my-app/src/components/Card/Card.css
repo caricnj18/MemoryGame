@@ -1,6 +1,169 @@
-.card {
+
+html {
+  line-height: 1.15; /* 1 */
+  -ms-text-size-adjust: 100%; /* 2 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+body {
+  margin: 0;
+}
+
+footer,
+nav,
+container {
+  display: block;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+main { /* 1 */
+  display: block;
+}
+
+img {
+  border-style: none;
+}
+
+
+.click-item01{
+  background-size: cover;
+  background-position: left;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 400px;
+  width: 400px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position: relative;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.click-item02{
   background-size: cover;
   background-position: center;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 400px;
+  width: 400px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position: relative;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.click-item03{
+  background-size: cover;
+  background-position: right;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 400px;
+  width: 400px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position: relative;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.click-item04{
+  background-size: cover;
+  background-position: left;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 400px;
+  width: 400px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position: relative;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.click-item05{
+  background-size: cover;
+  background-position: center;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 400px;
+  width: 400px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position: relative;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.click-item06{
+  background-size: cover;
+  background-position: right;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 400px;
+  width: 400px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position: relative;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.click-item07{
+  background-size: cover;
+  background-position: left;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 400px;
+  width: 400px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position: relative;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.click-item08{
+  background-size: cover;
+  background-position: center;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 400px;
+  width: 400px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position: relative;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.click-item09{
+  background-size: cover;
+  background-position: right;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 400px;
+  width: 400px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position: relative;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.click-item10{
+  background-size: cover;
+  background-position: left;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 400px;
+  width: 400px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position: relative;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.click-item11{
+  background-size: cover;
+  background-position: center;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 400px;
+  width: 400px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position: relative;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.click-item12{
+  background-size: cover;
+  background-position: right;
   background-clip: content-box;
   border: 6px solid white;
   height: 400px;
